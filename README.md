@@ -5,6 +5,7 @@ Full-stack TypeScript and Python, 7+ years. Based in Antwerp, Belgium.
 
 ## Building
 
+- **[pi-jutsu](https://github.com/markbrutx/pi-jutsu)** - extensions for the [pi](https://github.com/earendil-works/pi) coding agent, hardened through daily driving: shadow-clone agent swarms with a live TUI dashboard, autonomous goal mode, stealth browser control, parallel code review
 - **[Renfo.studio](https://markbrutx.github.io/renfo-studio/)** - desktop app for kids' photographers: batch costume portraits from one shot per child, the face stays untouched, 300 dpi print output ([releases](https://github.com/markbrutx/renfo-studio)) (Tauri + Rust + React, fal.ai)
 - **[promptbook](https://github.com/markbrutx/promptbook)** - prompts-as-code: deterministic prompt composition from plain files, with lint, trace and a graph view. `npx skills add markbrutx/promptbook`
 - **[Tabby](https://github.com/markbrutx/Tabby)** - free, open-source macOS terminal workspace: browser-style tabs, split panes, live sessions (Rust + Tauri)
@@ -15,7 +16,7 @@ Full-stack TypeScript and Python, 7+ years. Based in Antwerp, Belgium.
 ## Day to day
 
 - AI-workflow and security automation in production on a large healthcare platform
-- LLM harness tooling: MCP servers, sub-agents, repo-scoped rules, prompt evals
+- LLM harness tooling: MCP servers, sub-agents, repo-scoped rules, prompt evals - the multi-agent patterns behind [pi-jutsu](https://github.com/markbrutx/pi-jutsu)
 - Stack I reach for: TypeScript, Python, FastAPI, PostgreSQL, React
 
 ## Find me
