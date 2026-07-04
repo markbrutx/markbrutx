@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey, I'm Magzhan 👋
 
-<!--
-**markbrutx/markbrutx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior software engineer building AI systems: LLM harnesses, agentic automation, evals, MCP.
+Full-stack TypeScript and Python, 7+ years. Based in Antwerp, Belgium.
 
-Here are some ideas to get you started:
+## Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[promptbook](https://github.com/markbrutx/promptbook)** - prompts-as-code: deterministic prompt composition from plain files, with lint, trace and a graph view. `npx skills add markbrutx/promptbook`
+- **[Tabby](https://github.com/markbrutx/Tabby)** - free, open-source macOS terminal workspace: browser-style tabs, split panes, live sessions (Rust + Tauri)
+- **[gemini-plugin-cc](https://github.com/markbrutx/gemini-plugin-cc)** - Claude Code plugin that delegates visual analysis and design review to Gemini CLI
+- **[aidle.click](https://aidle.click)** - focus timer meets idle game: every finished focus session grows a tomato ([source](https://github.com/markbrutx/pomofarm))
+- **[saaslots.com](https://saaslots.com)** - slot machine for SaaS ideas: pick a model, pull the lever, ship the result. Telegram Mini App
+
+## Day to day
+
+- AI-workflow and security automation in production on a large healthcare platform
+- LLM harness tooling: MCP servers, sub-agents, repo-scoped rules, prompt evals
+- Stack I reach for: TypeScript, Python, FastAPI, PostgreSQL, React
+
+## Find me
+
+[LinkedIn](https://linkedin.com/in/quintbrut) · magzhan0dev@gmail.com
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=markbrutx&show_icons=true&hide_rank=true" alt="GitHub stats" height="165" /></p>
+
