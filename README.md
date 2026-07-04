@@ -20,6 +20,3 @@ Full-stack TypeScript and Python, 7+ years. Based in Antwerp, Belgium.
 ## Find me
 
 [LinkedIn](https://linkedin.com/in/quintbrut) · magzhan0dev@gmail.com
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=markbrutx&show_icons=true&hide_rank=true" alt="GitHub stats" height="165" /></p>
-
