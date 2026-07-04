@@ -5,6 +5,7 @@ Full-stack TypeScript and Python, 7+ years. Based in Antwerp, Belgium.
 
 ## Building
 
+- **[Renfo.studio](https://markbrutx.github.io/renfo-studio/)** - desktop app for kids' photographers: batch costume portraits from one shot per child, the face stays untouched, 300 dpi print output ([releases](https://github.com/markbrutx/renfo-studio)) (Tauri + Rust + React, fal.ai)
 - **[promptbook](https://github.com/markbrutx/promptbook)** - prompts-as-code: deterministic prompt composition from plain files, with lint, trace and a graph view. `npx skills add markbrutx/promptbook`
 - **[Tabby](https://github.com/markbrutx/Tabby)** - free, open-source macOS terminal workspace: browser-style tabs, split panes, live sessions (Rust + Tauri)
 - **[gemini-plugin-cc](https://github.com/markbrutx/gemini-plugin-cc)** - Claude Code plugin that delegates visual analysis and design review to Gemini CLI
